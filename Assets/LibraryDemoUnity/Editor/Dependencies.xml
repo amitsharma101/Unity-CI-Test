@@ -1,0 +1,17 @@
+<dependencies>
+    <androidPackages>
+        <androidPackage spec="androidx.appcompat:appcompat:1.4.2"/>
+    </androidPackages>
+    <androidPackages>
+        <androidPackage spec="androidx.constraintlayout:constraintlayout:2.1.4"/>
+    </androidPackages>
+    <androidPackages>
+        <androidPackage spec="com.google.android.material:material:1.6.1"/>
+    </androidPackages>
+    <androidPackages>
+        <androidPackage spec="androidx.core:core-ktx:1.7.0"/>
+    </androidPackages>
+    <androidPackages>
+        <androidPackage spec="com.google.code.gson:gson:2.8.9"/>
+    </androidPackages>
+</dependencies>
